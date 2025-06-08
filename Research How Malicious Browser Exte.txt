@@ -1,0 +1,63 @@
+Research: How Malicious Browser Extensions Can Harm Users
+
+Malicious browser extensions may appear harmless but can be extremely dangerous. Here's how they can harm users:
+
+1. Data Theft:
+
+   Access sensitive information like:
+
+   Login credentials
+
+   Banking details
+
+   Credit card numbers
+
+
+Can record keystrokes (keylogging)
+
+2. Spy on Browsing Behavior:
+
+   Monitor:
+
+   Websites you visit
+
+   Time spent on sites
+
+   Search queries
+
+   Sell your browsing history to advertisers or third parties
+
+ 3. Inject Malicious Code:
+
+    Modify websites you visit by:
+
+    Injecting ads (adware)
+
+    Redirecting you to phishing or fake websites
+
+    Inserting tracking scripts
+
+ 4. Unauthorized Access to System Files:
+    Some extensions request permissions to:
+
+    Access clipboard
+
+    Manage downloads
+
+    Read and change data on all websites
+
+ 5. Turn Your Browser Into a Bot
+
+    Use your system for:
+
+    Clicking ads (click fraud)
+
+    Sending spam
+
+    Participating in DDoS attacks
+
+ 6. Fake Updates or Phishing Prompts:
+
+    Show fake update pop-ups or alerts
+
+    Trick users into installing other malware
